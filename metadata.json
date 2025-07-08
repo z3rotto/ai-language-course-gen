@@ -1,0 +1,6 @@
+{
+  "name": "AI Language Course Generator v2",
+  "description": "An application that generates advanced language courses (including theory, dialogues, quizzes, and flashcards) from a user-provided JSON file, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
